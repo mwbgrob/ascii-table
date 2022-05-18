@@ -1,7 +1,6 @@
 # ascii table
 
-TODO Badges!
-
+[![Latest Stable Version](http://poser.pugx.org/golding/ascii-table/v)](https://packagist.org/packages/golding/ascii-table) [![Total Downloads](http://poser.pugx.org/golding/ascii-table/downloads)](https://packagist.org/packages/golding/ascii-table) [![Latest Unstable Version](http://poser.pugx.org/golding/ascii-table/v/unstable)](https://packagist.org/packages/golding/ascii-table) [![License](http://poser.pugx.org/golding/ascii-table/license)](https://packagist.org/packages/golding/ascii-table) [![PHP Version Require](http://poser.pugx.org/golding/ascii-table/require/php)](https://packagist.org/packages/golding/ascii-table)
 
 
 Php library with ascii table enum.
