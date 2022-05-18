@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=8.0",
-    "marc-mabe/php-enum" : ">=2.2"
+    "marc-mabe/php-enum" : ">=2.2,<5"
   },
   "autoload": {
     "psr-0": {
